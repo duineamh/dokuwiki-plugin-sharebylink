@@ -1,7 +1,7 @@
 /**
  * SharePage dialog for end users
  *
- * @author Peter Rohmann <dokuwiki@razupaltuff.com>
+ * @author Peter Rohmann <dokuwiki at razupaltuff dot com>
  */
 
 if(JSINFO && JSINFO.sharebylink_sharePageDialogOkay) {

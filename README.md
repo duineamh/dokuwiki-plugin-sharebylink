@@ -13,7 +13,7 @@ Please refer to http://www.dokuwiki.org/extensions for additional info
 on how to install extensions in DokuWiki.
 
 ----
-Copyright (C) Peter Rohmann <dokuwiki@razupaltuff.com>
+Copyright (C) Peter Rohmann <dokuwiki at razupaltuff dot com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

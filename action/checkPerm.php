@@ -3,7 +3,7 @@
  * DokuWiki Plugin sharebylink (Action Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author  Peter Rohmann <dokuwiki@razupaltuff.com>
+ * @author  Peter Rohmann <dokuwiki at razupaltuff dot com>
  */
 
 // must be run within Dokuwiki

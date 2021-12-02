@@ -1,6 +1,6 @@
 base   sharebylink
 author Peter Rohmann
-email  dokuwiki@razupaltuff.com
+email  dokuwiki at razupaltuff dot com
 date   2021-12-02
 name   sharebylink plugin
 desc   share by link
