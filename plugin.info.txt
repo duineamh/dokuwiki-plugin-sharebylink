@@ -1,0 +1,7 @@
+base   sharebylink
+author Peter Rohmann
+email  dokuwiki@razupaltuff.com
+date   2021-12-02
+name   sharebylink plugin
+desc   share by link
+url    https://github.com/duineamh/dokuwiki-plugin-sharebylink
